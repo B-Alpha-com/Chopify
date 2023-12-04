@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/B-Alpha-com/Chopify/static/css/main.59797b3e.css",
+    "main.js": "/B-Alpha-com/Chopify/static/js/main.a8f59401.js",
+    "static/js/787.46493d11.chunk.js": "/B-Alpha-com/Chopify/static/js/787.46493d11.chunk.js",
+    "static/media/Black-sand.jpg": "/B-Alpha-com/Chopify/static/media/Black-sand.755f1a40882d562dcdd0.jpg",
+    "static/media/branislav-belko-lJ7iAZxplpc-unsplash.jpg": "/B-Alpha-com/Chopify/static/media/branislav-belko-lJ7iAZxplpc-unsplash.ce3cfa334c4b72b8fd33.jpg",
+    "static/media/danilo-capece-NoVnXXmDNi0-unsplash.jpg": "/B-Alpha-com/Chopify/static/media/danilo-capece-NoVnXXmDNi0-unsplash.1e08fb8ca483f7a8e9bc.jpg",
+    "index.html": "/B-Alpha-com/Chopify/index.html",
+    "main.59797b3e.css.map": "/B-Alpha-com/Chopify/static/css/main.59797b3e.css.map",
+    "main.a8f59401.js.map": "/B-Alpha-com/Chopify/static/js/main.a8f59401.js.map",
+    "787.46493d11.chunk.js.map": "/B-Alpha-com/Chopify/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59797b3e.css",
+    "static/js/main.a8f59401.js"
+  ]
+}
