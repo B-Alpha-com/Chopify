@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/B-Alpha-com/Chopify/static/css/main.6b62bdde.css",
-    "main.js": "/B-Alpha-com/Chopify/static/js/main.43bea563.js",
-    "static/js/787.4c8b65ad.chunk.js": "/B-Alpha-com/Chopify/static/js/787.4c8b65ad.chunk.js",
-    "static/media/Black-sand.jpg": "/B-Alpha-com/Chopify/static/media/Black-sand.755f1a40882d562dcdd0.jpg",
-    "static/media/branislav-belko-lJ7iAZxplpc-unsplash.jpg": "/B-Alpha-com/Chopify/static/media/branislav-belko-lJ7iAZxplpc-unsplash.ce3cfa334c4b72b8fd33.jpg",
-    "static/media/danilo-capece-NoVnXXmDNi0-unsplash.jpg": "/B-Alpha-com/Chopify/static/media/danilo-capece-NoVnXXmDNi0-unsplash.1e08fb8ca483f7a8e9bc.jpg",
-    "index.html": "/B-Alpha-com/Chopify/index.html",
-    "main.6b62bdde.css.map": "/B-Alpha-com/Chopify/static/css/main.6b62bdde.css.map",
-    "main.43bea563.js.map": "/B-Alpha-com/Chopify/static/js/main.43bea563.js.map",
-    "787.4c8b65ad.chunk.js.map": "/B-Alpha-com/Chopify/static/js/787.4c8b65ad.chunk.js.map"
+    "main.css": "/static/css/main.a38287c4.css",
+    "main.js": "/static/js/main.4e632b9c.js",
+    "static/js/787.4c8b65ad.chunk.js": "/static/js/787.4c8b65ad.chunk.js",
+    "static/media/Black-sand.jpg": "/static/media/Black-sand.755f1a40882d562dcdd0.jpg",
+    "static/media/branislav-belko-lJ7iAZxplpc-unsplash.jpg": "/static/media/branislav-belko-lJ7iAZxplpc-unsplash.ce3cfa334c4b72b8fd33.jpg",
+    "static/media/danilo-capece-NoVnXXmDNi0-unsplash.jpg": "/static/media/danilo-capece-NoVnXXmDNi0-unsplash.1e08fb8ca483f7a8e9bc.jpg",
+    "index.html": "/index.html",
+    "main.a38287c4.css.map": "/static/css/main.a38287c4.css.map",
+    "main.4e632b9c.js.map": "/static/js/main.4e632b9c.js.map",
+    "787.4c8b65ad.chunk.js.map": "/static/js/787.4c8b65ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b62bdde.css",
-    "static/js/main.43bea563.js"
+    "static/css/main.a38287c4.css",
+    "static/js/main.4e632b9c.js"
   ]
 }
