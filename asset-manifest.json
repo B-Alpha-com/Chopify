@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/chopify/static/css/main.1f3af454.css",
-    "main.js": "/chopify/static/js/main.75fdd0c8.js",
-    "static/js/787.bb4bd3c6.chunk.js": "/chopify/static/js/787.bb4bd3c6.chunk.js",
-    "static/media/Black-sand.jpg": "/chopify/static/media/Black-sand.755f1a40882d562dcdd0.jpg",
-    "static/media/branislav-belko-lJ7iAZxplpc-unsplash.jpg": "/chopify/static/media/branislav-belko-lJ7iAZxplpc-unsplash.ce3cfa334c4b72b8fd33.jpg",
-    "static/media/danilo-capece-NoVnXXmDNi0-unsplash.jpg": "/chopify/static/media/danilo-capece-NoVnXXmDNi0-unsplash.1e08fb8ca483f7a8e9bc.jpg",
-    "index.html": "/chopify/index.html",
-    "main.1f3af454.css.map": "/chopify/static/css/main.1f3af454.css.map",
-    "main.75fdd0c8.js.map": "/chopify/static/js/main.75fdd0c8.js.map",
-    "787.bb4bd3c6.chunk.js.map": "/chopify/static/js/787.bb4bd3c6.chunk.js.map"
+    "main.css": "/static/css/main.a38287c4.css",
+    "main.js": "/static/js/main.b84d0c0f.js",
+    "static/js/787.fa9cb370.chunk.js": "/static/js/787.fa9cb370.chunk.js",
+    "static/media/Black-sand.jpg": "/static/media/Black-sand.755f1a40882d562dcdd0.jpg",
+    "static/media/branislav-belko-lJ7iAZxplpc-unsplash.jpg": "/static/media/branislav-belko-lJ7iAZxplpc-unsplash.ce3cfa334c4b72b8fd33.jpg",
+    "static/media/danilo-capece-NoVnXXmDNi0-unsplash.jpg": "/static/media/danilo-capece-NoVnXXmDNi0-unsplash.1e08fb8ca483f7a8e9bc.jpg",
+    "index.html": "/index.html",
+    "main.a38287c4.css.map": "/static/css/main.a38287c4.css.map",
+    "main.b84d0c0f.js.map": "/static/js/main.b84d0c0f.js.map",
+    "787.fa9cb370.chunk.js.map": "/static/js/787.fa9cb370.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f3af454.css",
-    "static/js/main.75fdd0c8.js"
+    "static/css/main.a38287c4.css",
+    "static/js/main.b84d0c0f.js"
   ]
 }
